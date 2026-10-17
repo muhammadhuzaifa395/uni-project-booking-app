@@ -6,6 +6,13 @@
 
 ---
 
+> 🚀 **Live Production Deployment:** Hosted on Vercel  
+> 🔑 **1-Click Demo Accounts:**  
+> • **Admin Account:** `admin@appointment.com` / `admin123` (Full Management Console)  
+> • **Client User:** `user@appointment.com` / `user123` (Booking & Appointments Dashboard)
+
+---
+
 ## 🌟 Project Overview
 **BookEasy** is a complete, modern, responsive full-stack web application developed for online appointment scheduling across three everyday service domains:
 1. **💈 Barbershop** (Haircuts, Hot Towel Shaving, Beard Styling, Hair Treatments)
